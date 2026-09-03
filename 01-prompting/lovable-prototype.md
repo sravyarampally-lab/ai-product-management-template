@@ -41,8 +41,7 @@ I cannot make an external delivery commitment without an approved timeline. I fo
 
 
 ## Prototype link
-
-_The public Lovable share URL._
+(https://preview--juno-insight-engine.lovable.app/)
 
 _____
 
